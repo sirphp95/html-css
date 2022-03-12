@@ -1,0 +1,105 @@
+header{
+    background:  rgb(8, 8, 94);
+    padding: 20px 0;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a:hover {
+    color: red;
+}
+.botoes{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+    
+
+
+ body{
+    background: rgb(8, 8, 94);
+}
+.titulo-principal{
+padding-left: 20px;
+}
+
+#resumo{
+    text-align: center;
+}
+
+
+.principal{
+    background: blue;
+    padding: 30px;
+}
+
+
+.formacao{
+    text-align: center;
+    height: 150px;
+  
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+p {text-align:center;
+    
+}
+
+#missao {
+    font-size: 20px
+}
+
+
+em strong {
+    color: red;
+}
+
+.items {
+    font-style: italic;
+}
+
+.cursos {
+    background: rgb(12, 10, 10);
+    padding: 20px;
+
+}
+
+
+
+ul{
+    display:inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.blue{
+    width: 100%;
+    height: 100%;
+}
+#blue{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+    background: url("blue.jpg")
+}
